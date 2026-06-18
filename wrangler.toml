@@ -1,7 +1,0 @@
-name = "booeb-whatsapp-bot"
-main = "worker.js"
-compatibility_date = "2024-01-01"
-
-[[kv_namespaces]]
-binding = "CHAT_HISTORY"
-id = "06dcb5ee94fd47609dec75016e0be8d9"
